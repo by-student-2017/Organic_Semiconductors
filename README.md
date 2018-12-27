@@ -45,22 +45,51 @@ Organic semiconductors (cif file)
 [10] K. Iijima et al., ACS Appl. Mater. Interfaces, 2018, 10 (12), pp 10262?10269. (https://pubs.acs.org/doi/full/10.1021/acsami.8b00416?src=recsys)
 
 
-## Mobility [M1,M2]
+## Mobility [M1-M9]
 	a-Si:H: ca.10^0 cm^2/Vs
 	Rubrene crystal: 40 cm^2/Vs
 	Pentacene film: 5 cm^2/Vs
 	TIPS-Pentacene (solution): 1.5 cm^2/Vs
 	Polythiophene (solution): 0.6 cm^2/Vs
 	P3HT: 0.1 cm^2/Vs
-[M1] T. Mori, J. Phys. Cond. Matter. 20 (2008) 184010.
+	[M1] T. Mori, J. Phys. Cond. Matter. 20 (2008) 184010.
+	[M2] A. R. Murphy and J. M. J. Frechet, Chem. Rev. 107 (2007) 1066.
+	
+	DBTTF film: 0.19 cm^2/Vs (Vth: 9 V)
+	[M3] Nagakubo, Phys. Chem. Chem. Phys., 13 (2011) 14370.
+	
+	HMTTF film: 3.6 cm^2/Vs (Vth: 27V)
+	[M4] Takahashi, Chem. Mater., 19 (2007)6382.
+	
+	OMTTF film: 4.2*10^-4 cm^2/Vs (Vth: 5 V)
+	OMTTF film: 0.11 cm^2/Vs (Vth: 0.7 V)
+	[M5] Inoue, Chem. Lett., 39 (2010) 538.
+    
+	DNTT: 8.3 cm^2/Vs
+	[M6] APL95(2009)022111.
+	
+	C8-BTBT (solution): 5 cm^2/Vs
+	[M7] APE2(2009)111501.
+	
+	CDT-BTZ (solution): 1.4 cm^2/Vs
+	[M8] AM21(2009)209.
+	
+	PB16TTT (solution): 1 cm^2/Vs
+	[M9] JAP105(2009)024516.
 
 
-[M2] A. R. Murphy and J. M. J. Frechet, Chem. Rev. 107 (2007) 1066.
-
-
-## Field-Effect Mobility
-	DNTT: 8.3 cm^2/Vs, APL95(2009)022111.
-	C8-BTBT (solution): 5 cm^2/Vs, APE2(2009)111501.
-	CDT-BTZ (solution): 1.4 cm^2/Vs, AM21(2009)209.
-	PB16TTT (solution): 1 cm^2/Vs, JAP105(2009)024516.
+## Bandwidth [B1]
+	Pentacene: 188 meV
+	Perfluoropentacene (For LIMO): 512 meV
+	Picene: 266 meV
+	Sexithiophene (6T)/LT: 76 meV
+	Sexithiophene (6T)/HT: 200 meV
+	Pentathienoacene (f-5T): 76 meV
+	theta-(BEDT-TTF)2TlCo(SCN)4: 940 meV
+	DBTTF/alpha-phase: 212 meV
+	DBTTF/beta-phase: 66 meV
+	DBTTF/triclinic phase: 178 meV
+	C12-BTBT: 296 meV
+	DPh-BTBT: 660 meV
+	[B1] H. Kojima and T. Mori. Bull. Chem. Soc. Jpn., 84 (2011) 1049.
 	
