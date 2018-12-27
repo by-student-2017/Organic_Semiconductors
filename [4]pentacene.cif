@@ -1,0 +1,147 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-21 19:18:39 +0200 (Mon, 21 Mar 2016) $
+#$Revision: 178844 $
+#$URL: svn://www.crystallography.net/cod/cif/4/10/98/4109834.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4109834
+loop_
+_publ_author_name
+'Stefan Schiefer'
+'Martin Huth'
+'Alexander Dobrinevski'
+'Bert Nickel'
+_publ_contact_author_address
+;Department f\"ur Physik
+Ludwig Maximilians Universit\"at M\"unchen
+Geschwister-Scholl -Platz 1
+D-80539 M\"unchen
+Germany
+;
+_publ_contact_author_email       nickel@lmu.de
+_publ_contact_author_name        'Nickel, Bert'
+_publ_contact_author_phone       +49(0)89-2180-1460
+_publ_section_title
+;
+ Determination of the Crystal Structure of Substrate-Induced Pentacene
+ Polymorphs in Fiber Structured Thin Films
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              10316
+_journal_page_last               10317
+_journal_paper_doi               10.1021/ja0730516
+_journal_volume                  129
+_journal_year                    2007
+_chemical_compound_source        'sigma Aldrich'
+_chemical_formula_moiety         'C22 H14'
+_chemical_formula_sum            'C22 H14'
+_chemical_formula_weight         278.35
+_chemical_melting_point          573
+_chemical_name_common            pentacene
+_chemical_name_systematic        pentacene
+_space_group_IT_number           2
+_symmetry_cell_setting           triclinic
+_symmetry_Int_Tables_number      2
+_symmetry_space_group_name_Hall  '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_audit_creation_date             2007-03-18
+_audit_creation_method           Matlab
+_cell_angle_alpha                81.25
+_cell_angle_beta                 86.56
+_cell_angle_gamma                89.80
+_cell_formula_units_Z            2
+_cell_length_a                   5.959
+_cell_length_b                   7.596
+_cell_length_c                   15.6096
+_cell_measurement_reflns_used    47
+_cell_measurement_temperature    293
+_cell_volume                     697.069
+_diffrn_ambient_pressure         0.00000001
+_diffrn_ambient_temperature      293
+_diffrn_measurement_device_type
+;
+     HASYLab, Hamburg, W1 Beamline
+;
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           synchrotron
+_diffrn_radiation_wavelength     1.1810
+_diffrn_reflns_limit_h_max       3
+_diffrn_reflns_limit_h_min       -3
+_diffrn_reflns_limit_k_max       4
+_diffrn_reflns_limit_k_min       -4
+_diffrn_reflns_limit_l_max       8
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_reduction_process
+;
+ Intensity data were corrected for Lorentz and polarization effects,
+ area factor and interception of scattering rod
+;
+_diffrn_source                   synchrotron
+_diffrn_source_type              'HASYLab Beamline W1'
+_exptl_crystal_colour            violet
+_exptl_crystal_description       'fibre structured thin-film'
+_exptl_crystal_recrystallization_method 'Molecular beam deposition'
+_cod_data_source_file            ja0730516si20070712_103841.cif
+_cod_data_source_block           Pentacene_on_Topas
+_cod_original_cell_volume        696.953
+_cod_suboptimal_structure        yes
+_cod_database_code               4109834
+#BEGIN Tags that were not found in dictionaries:
+_cod_related_optimal_structure   4109822
+#END Tags that were not found in dictionaries
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+_atom_site_occupancy
+C1 C 0.2057 -0.0905 -0.0060 0.0482 Uiso 1.000
+C2 C 0.1149 -0.0692 0.0763 0.0482 Uiso 1.000
+C3 C 0.2176 -0.1327 0.1532 0.0482 Uiso 1.000
+C4 C 0.1217 -0.1083 0.2340 0.0482 Uiso 1.000
+C5 C 0.2320 -0.1725 0.3125 0.0482 Uiso 1.000
+C6 C 0.1406 -0.1480 0.3906 0.0482 Uiso 1.000
+C7 C -0.0717 -0.0572 0.3975 0.0482 Uiso 1.000
+C8 C -0.1793 0.0056 0.3246 0.0482 Uiso 1.000
+C9 C -0.0879 -0.0153 0.2392 0.0482 Uiso 1.000
+C10 C -0.1918 0.0476 0.1650 0.0482 Uiso 1.000
+C11 C -0.0983 0.0241 0.0825 0.0482 Uiso 1.000
+C12 C 0.7054 0.5943 -0.0096 0.0482 Uiso 1.000
+C13 C 0.6180 0.5299 0.0743 0.0482 Uiso 1.000
+C14 C 0.7234 0.5545 0.1493 0.0482 Uiso 1.000
+C15 C 0.6305 0.4885 0.2318 0.0482 Uiso 1.000
+C16 C 0.7403 0.5176 0.3085 0.0482 Uiso 1.000
+C17 C 0.6500 0.4552 0.3882 0.0482 Uiso 1.000
+C18 C 0.4408 0.3565 0.3988 0.0482 Uiso 1.000
+C19 C 0.3328 0.3277 0.3277 0.0482 Uiso 1.000
+C20 C 0.4206 0.3931 0.2407 0.0482 Uiso 1.000
+C21 C 0.3146 0.3670 0.1684 0.0482 Uiso 1.000
+C22 C 0.4057 0.4320 0.0842 0.0482 Uiso 1.000
+H1 H 0.3413 -0.1504 -0.0106 0.0482 Uiso 1.000
+H3 H 0.3534 -0.1927 0.1502 0.0482 Uiso 1.000
+H5 H 0.3685 -0.2316 0.3090 0.0482 Uiso 1.000
+H6 H 0.2143 -0.1898 0.4404 0.0482 Uiso 1.000
+H7 H -0.1349 -0.0416 0.4518 0.0482 Uiso 1.000
+H8 H -0.3159 0.0638 0.3301 0.0482 Uiso 1.000
+H10 H -0.3276 0.1074 0.1692 0.0482 Uiso 1.000
+H12 H 0.8411 0.6564 -0.0166 0.0482 Uiso 1.000
+H14 H 0.8591 0.6164 0.1439 0.0482 Uiso 1.000
+H16 H 0.8753 0.5805 0.3026 0.0482 Uiso 1.000
+H17 H 0.7227 0.4756 0.4369 0.0482 Uiso 1.000
+H18 H 0.3799 0.3126 0.4541 0.0482 Uiso 1.000
+H19 H 0.1982 0.2639 0.3356 0.0482 Uiso 1.000
+H21 H 0.1790 0.3047 0.1749 0.0482 Uiso 1.000
+

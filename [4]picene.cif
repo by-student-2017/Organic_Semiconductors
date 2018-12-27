@@ -1,0 +1,97 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 14:50:18 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176428 $
+#$URL: svn://www.crystallography.net/cod/cif/5/00/01/5000182.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_5000182
+loop_
+_publ_author_name
+'De, A.'
+'Ghosh, R.'
+'Roychowdhury, S.'
+'Roychowdhury, P.'
+_publ_section_title
+;
+ Structural analysis of picene, C~22~H~14~
+;
+_journal_issue                   6
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              907
+_journal_page_last               909
+_journal_paper_doi               10.1107/S0108270185005959
+_journal_volume                  41
+_journal_year                    1985
+_chemical_formula_sum            'C22 H14'
+_space_group_IT_number           4
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90.46(1)
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   8.480(2)
+_cell_length_b                   6.154(2)
+_cell_length_c                   13.515(3)
+_cod_original_sg_symbol_H-M      'P 21'
+_cod_database_code               5000182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6308(6) 0.2155(11) 0.3028(4)
+C2 C 0.5434(7) 0.0449(14) 0.2607(4)
+C3 C 0.5065(8) 0.0458(15) 0.1589(5)
+C4 C 0.5598(7) 0.20700 0.0993(4)
+C5 C 0.6449(7) 0.3808(13) 0.1336(4)
+C6 C 0.6770(6) 0.3848(12) 0.2370(4)
+C7 C 0.7645(7) 0.5541(13) 0.2787(4)
+C8 C 0.8023(7) 0.5686(13) 0.3771(4)
+C9 C 0.7633(6) 0.3992(11) 0.4439(4)
+C10 C 0.6767(6) 0.2256(11) 0.4069(4)
+C11 C 0.6269(6) 0.0540(13) 0.4713(4)
+C12 C 0.6705(7) 0.0510(14) 0.5719(4)
+C13 C 0.7599(7) 0.2316(12) 0.6073(4)
+C14 C 0.8062(6) 0.4012(10) 0.5464(4)
+C15 C 0.8942(6) 0.5739(12) 0.5864(4)
+C16 C 0.9380(7) 0.5804(13) 0.6838(4)
+C17 C 0.8987(7) 0.4088(12) 0.7500(4)
+C18 C 0.8090(7) 0.2358(12) 0.7125(4)
+C19 C 0.7686(7) 0.0728(14) 0.7781(4)
+C20 C 0.8190(7) 0.0829(15) 0.8776(4)
+C21 C 0.9074(8) 0.2556(14) 0.9106(4)
+C22 C 0.9491(7) 0.4218(12) 0.8492(4)
+H1 H 0.50510 -0.08740 0.30660
+H2 H 0.43440 -0.08380 0.12740
+H3 H 0.53400 0.19830 0.02170
+H4 H 0.68570 0.50550 0.08400
+H5 H 0.80610 0.68350 0.23030
+H6 H 0.86280 0.71250 0.40420
+H7 H 0.55470 -0.07520 0.44220
+H8 H 0.63690 -0.08210 0.62030
+H9 H 0.92910 0.70450 0.53840
+H10 H 1.00560 0.71770 0.71070
+H11 H 0.69580 -0.06110 0.75350
+H12 H 0.78910 -0.04730 0.92740
+H13 H 0.94360 0.26080 0.98700
+H14 H 1.01800 0.55780 0.87590
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated directly or indirectly from an entry in the 
+# Cambridge Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting from 
+# the CCDC's data processing and validation procedures. Files generated from 
+# CSD entries are Copyright 2010 Cambridge Crystallographic Data Centre. They 
+# may be used in bona fide research applications only, and may not be copied or 
+# further disseminated in any form, whether machine-readable or not, except for 
+# the purposes of generating routine backup copies on your local computer 
+# system.
+# 
+# Files arising from any other source may also contain material that is the 
+# copyright of third parties, including the originator, and you should check 
+# with the originator concerning the permitted uses of the information 
+# contained in this CIF.
+#
+# For further information on the CCDC and the free tools enCIFer and Mercury
+# for validating and visualising CIF files, please visit www.ccdc.cam.ac.uk
+#
+#######################################################################
+
+data_GAMFIJ01
+_audit_creation_date             1989-02-16
+_database_code_depnum_ccdc_archive 'CCDC 751979'
+_database_code_NBS               580106
+_chemical_formula_moiety         
+'(C10 H8 S8 1+)n,n(C10 H8 S8),n(C2 Cu1 N2 S2 1-)'
+_chemical_name_systematic        
+'catena(bis(bis(Ethylenedithio)tetrathiafulvalene) (\m~2~-isothiocyanato)-isothiocyanato-copper)'
+_journal_coden_Cambridge         241
+_journal_year                    1988
+_journal_page_first              463
+_journal_name_full               Chem.Lett.
+loop_
+_publ_author_name
+H.Urayama
+H.Yamochi
+G.Saito
+S.Sato
+A.Kawamoto
+J.Tanaka
+T.Mori
+Y.Maruyama
+H.Inokuchi
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    1.867
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.084
+_refine_ls_wR_factor_gt          0.084
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   16.248(5)
+_cell_length_b                   8.440(2)
+_cell_length_c                   13.124(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 110.30(3)
+_cell_angle_gamma                90
+_cell_volume                     1687.95
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S9 S 0.37230 -0.58887 0.31794
+S10 S 0.44485 -0.33381 0.47531
+S11 S 0.20993 -0.62917 0.36591
+S12 S 0.29242 -0.31633 0.54767
+S13 S 0.62079 -0.33860 0.40779
+S14 S 0.53954 -0.58005 0.24696
+S15 S 0.79467 -0.35731 0.38792
+S16 S 0.69431 -0.64107 0.18841
+C11 C 0.45622 -0.45694 0.37489
+C12 C 0.30811 -0.52359 0.39278
+C13 C 0.33923 -0.40706 0.46246
+C14 C 0.15164 -0.49499 0.42922
+C15 C 0.20001 -0.44861 0.53932
+C16 C 0.52880 -0.44960 0.34599
+C17 C 0.68483 -0.42568 0.34185
+C18 C 0.64394 -0.53126 0.26298
+C19 C 0.84689 -0.46517 0.30569
+C20 C 0.81295 -0.57755 0.25074
+Cu1 Cu -0.00124 -0.26327 0.84285
+S17 S 0.01028 0.00501 0.83669
+S18 S -0.00470 -0.62123 0.57706
+C21 C 0.01108 0.07369 0.95296
+C22 C -0.00301 -0.48032 0.66228
+N1 N -0.01188 -0.36113 0.96532
+N2 N -0.00162 -0.37255 0.71985
+N1A N 0.01188 0.13887 1.03468
+Cu1A Cu 0.00124 0.23673 1.15715
+S17A S -0.01028 0.50501 1.16331
+C21A C -0.01108 0.57369 1.04704
+N1 N -0.01188 0.63887 0.96532
+Cu1 Cu -0.00124 0.73673 0.84285
+S17 S 0.01028 1.00501 0.83669
+N2 N -0.00162 0.62745 0.71985
+C22 C -0.00301 0.51968 0.66228
+S18 S -0.0047 0.37877 0.57706
+N2A N 0.00162 0.12745 1.28015
+C22A C 0.00301 0.01968 1.33772
+S18A S 0.0047 -0.12123 1.42294
+C21A C -0.01108 -0.42631 1.04704
+S1 S 0.45627 -0.04740 0.25930
+S2 S 0.37137 -0.28584 0.09234
+S3 S 0.30534 0.01652 0.32114
+S4 S 0.19593 -0.25289 0.11152
+S5 S 0.54947 -0.29044 0.02503
+S6 S 0.62245 -0.04163 0.18612
+S7 S 0.69905 -0.30553 -0.04843
+S8 S 0.78664 -0.00489 0.14410
+C1 C 0.46234 -0.15709 0.15437
+C2 C 0.34405 -0.08714 0.23645
+C3 C 0.30750 -0.19819 0.15947
+C4 C 0.19773 -0.06493 0.28822
+C5 C 0.16175 -0.17882 0.20871
+C6 C 0.53313 -0.17110 0.12433
+C7 C 0.65127 -0.21461 0.03642
+C8 C 0.68416 -0.09765 0.11169
+C9 C 0.78518 -0.17516 -0.03789
+C10 C 0.84279 -0.11688 0.07904
+
+#END
+

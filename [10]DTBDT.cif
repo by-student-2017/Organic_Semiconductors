@@ -1,0 +1,457 @@
+data_General
+_audit_creation_date                    2016-08-01
+_audit_creation_method                 'by CrystalStructure 4.0'
+_audit_update_record                    ?
+
+#==============================================================================
+# PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_date_recd_electronic           ?
+_journal_date_from_coeditor             ?
+_journal_date_accepted                  ?
+_journal_coeditor_code                  ?
+
+#==============================================================================
+# SUBMISSION DETAILS
+
+_publ_contact_author_name              'Takehiko Mori'
+_publ_contact_author_email             mori.t.ae@m.titech.ac.jp
+_publ_contact_author_fax               +91-3-5734-2876
+_publ_contact_author_phone             +91-3-5734-2427
+_publ_contact_author_address		'O-okayama, Meguro-ku, Tokyo 152-8552, Japan'
+_publ_contact_letter
+;
+    ENTER TEXT OF LETTER
+;
+_publ_requested_journal                'ACS Applied Materials & Interfaces'
+_publ_requested_category               FM
+_publ_requested_coeditor_name           ?
+
+#==============================================================================
+# TITLE AND AUTHOR LIST
+
+_publ_section_title
+;
+Carrier Charge Polarity in Mixed-Stack Charge-Transfer Crystals Containing Dithienobenzodithiophene (DTBDT)
+;
+_publ_section_title_footnote
+;
+    ENTER FOOTNOTE TO TITLE OF PAPER
+;
+loop_
+_publ_author_name
+_publ_author_footnote
+_publ_author_address
+'Kodai Iijima'
+;
+Department of Materials Science and Engineering, Tokyo Institute of Technology, 
+;
+;
+O-okayama, Meguro-ku, Tokyo 152-8552, Japan
+;
+_publ_section_synopsis
+;
+    ENTER SYNOPSIS
+;
+
+#==============================================================================
+# TEXT
+
+_publ_section_abstract
+;
+    ENTER ABSTRACT
+;
+_publ_section_comment
+;
+    ENTER TEXT
+;
+_publ_section_references
+;
+    ENTER OTHER REFERENCES
+
+    Rigaku (2010). CrystalStructure. Version 4.0. 
+    Rigaku Corporation, Tokyo, Japan.
+
+    M.C. Burla, R. Caliandro, M. Camalli, B. Carrozzini, 
+    G.L. Cascarano, L. De Caro, C. Giacovazzo, G. Polidori, 
+    D. Siliqi, R. Spagna (2007) 
+    SIR2008
+
+    Sheldrick, G.M. (2008), Acta Cryst. A64, 112-122.
+
+;
+_publ_section_figure_captions
+;
+    ENTER FIGURE CAPTIONS
+;
+_publ_section_exptl_prep
+;
+    ENTER COMPOUND PREPARATION DETAILS
+;
+_publ_section_exptl_refinement
+;
+    ENTER SPECIAL DETAILS OF THE REFINEMENT
+;
+
+
+#==============================================================================
+data_Cytidine_(Rigaku_Master_fo
+
+#==============================================================================
+# CHEMICAL DATA
+
+_chemical_formula_sum                  'C14 H6 S4'
+_chemical_formula_moiety               'C14 H6 S4'
+_chemical_formula_weight                302.44
+_chemical_melting_point                 ?
+
+#==============================================================================
+# CRYSTAL DATA
+_symmetry_cell_setting                  monoclinic
+_symmetry_space_group_name_H-M         'C 1 2/c 1'
+_symmetry_space_group_name_Hall        '-C 2yc'
+_symmetry_Int_Tables_number             15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1   '+X,+Y,+Z'
+2   '-X,+Y,1/2-Z'
+3   '-X,-Y,-Z'
+4   '+X,-Y,1/2+Z'
+5   '1/2+X,1/2+Y,+Z'
+6   '1/2-X,1/2+Y,1/2-Z'
+7   '1/2-X,1/2-Y,-Z'
+8   '1/2+X,1/2-Y,1/2+Z'
+#------------------------------------------------------------------------------
+_cell_length_a                          18.468(8)
+_cell_length_b                          4.390(3)
+_cell_length_c                          14.980(6)
+_cell_angle_alpha                       90.0000
+_cell_angle_beta                        96.04(3)
+_cell_angle_gamma                       90.0000
+_cell_volume                            1207.8(11)
+_cell_formula_units_Z                   4
+_cell_measurement_reflns_used           25
+_cell_measurement_theta_min             15.05
+_cell_measurement_theta_max             17.49
+_cell_measurement_temperature           298
+#------------------------------------------------------------------------------
+_exptl_crystal_description              plate
+_exptl_crystal_colour                   colorless
+_exptl_crystal_size_max                 0.400
+_exptl_crystal_size_mid                 0.100
+_exptl_crystal_size_min                 0.060
+_exptl_crystal_density_diffrn           1.663
+_exptl_crystal_density_meas             ?
+_exptl_crystal_density_method          'not measured'
+_exptl_crystal_F_000                    616.00
+_exptl_absorpt_coefficient_mu           0.759
+_exptl_absorpt_correction_type          psi-scan
+_exptl_absorpt_process_details         '(North, Phillips & Mathews, 1968)'
+_exptl_absorpt_correction_T_min         0.905
+_exptl_absorpt_correction_T_max         0.955
+
+#==============================================================================
+# EXPERIMENTAL DATA
+
+_diffrn_ambient_temperature             298
+_diffrn_radiation_type                 'Mo K\a'
+_diffrn_radiation_wavelength            0.71069
+_diffrn_measurement_device_type        'Rigaku AFC7R'
+_diffrn_measurement_method              \w-2\q
+_diffrn_reflns_number                   2227
+_diffrn_reflns_av_R_equivalents         0.0722
+_diffrn_reflns_theta_max                30.01
+_diffrn_reflns_theta_full               30.01
+_diffrn_measured_fraction_theta_max     0.999
+_diffrn_measured_fraction_theta_full    0.999
+_diffrn_reflns_limit_h_min             -12
+_diffrn_reflns_limit_h_max              25
+_diffrn_reflns_limit_k_min             -6
+_diffrn_reflns_limit_k_max              3
+_diffrn_reflns_limit_l_min             -20
+_diffrn_reflns_limit_l_max              20
+_diffrn_standards_number                3
+_diffrn_standards_interval_count        150
+_diffrn_standards_decay_%               0.840
+
+#==============================================================================
+# REFINEMENT DATA
+
+_refine_special_details
+;
+    Refinement was performed using all reflections. The weighted 
+    R-factor (wR) and goodness of fit (S) are based on F^2^.
+    R-factor (gt) are based on F. The threshold expression of
+    F^2^ > 2.0 sigma(F^2^) is used only for calculating R-factor (gt).
+;
+_reflns_number_total                    1759
+_reflns_number_gt                       1389
+_reflns_threshold_expression            F^2^>2.0\s(F^2^)
+_refine_ls_structure_factor_coef        Fsqd
+_refine_ls_R_factor_gt                  0.0464
+_refine_ls_wR_factor_ref                0.1336
+_refine_ls_number_restraints            0
+_refine_ls_hydrogen_treatment           constr
+_refine_ls_number_reflns                1759
+_refine_ls_number_parameters            82
+_refine_ls_goodness_of_fit_ref          1.042
+_refine_ls_weighting_scheme             calc
+_refine_ls_weighting_details
+           'w = 1/[\s^2^(Fo^2^)+(0.0823P)^2^+0.4679P] where P=(Fo^2^+2Fc^2^)/3'
+_atom_sites_solution_hydrogens          geom
+_atom_sites_solution_primary            direct
+_atom_sites_solution_secondary          difmap
+_refine_ls_shift/su_max                 0.000
+_refine_diff_density_max                0.500
+_refine_diff_density_min               -0.530
+_refine_ls_extinction_method            none
+_refine_ls_extinction_coef              ?
+
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+  'C' 'C'  0.0033 0.0016 
+;
+International Tables for Crystallography
+(1992, Vol. C, Tables 4.2.6.8 and 6.1.1.4)
+;
+  'H' 'H'  0.0000 0.0000 
+;
+International Tables for Crystallography
+(1992, Vol. C, Table 6.1.1.4)
+;
+  'S' 'S'  0.1246 0.1234 
+;
+International Tables for Crystallography
+(1992, Vol. C, Tables 4.2.6.8 and 6.1.1.4)
+;
+
+#==============================================================================
+# ATOMIC COORDINATES AND THERMAL PARAMETERS
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+ S1 S 0.40567(3) 0.54736(15) 0.78188(3) 0.04266(19) Uani 1.0 8 d . . .
+ S2 S 0.35132(3) 0.29403(14) 1.03416(3) 0.03879(19) Uani 1.0 8 d . . .
+ C1 C 0.32386(13) 0.7192(6) 0.79637(17) 0.0467(6) Uani 1.0 8 d . . .
+ C2 C 0.30013(12) 0.6570(6) 0.87740(17) 0.0424(5) Uani 1.0 8 d . . .
+ C3 C 0.34965(11) 0.4629(5) 0.92885(13) 0.0341(4) Uani 1.0 8 d . . .
+ C4 C 0.40996(11) 0.3860(5) 0.88685(13) 0.0326(4) Uani 1.0 8 d . . .
+ C5 C 0.46067(10) 0.1879(5) 0.93746(12) 0.0306(4) Uani 1.0 8 d . . .
+ C6 C 0.43531(10) 0.1195(5) 1.02168(12) 0.0318(4) Uani 1.0 8 d . . .
+ C8 C 0.52635(10) 0.0669(5) 0.91608(12) 0.0337(4) Uani 1.0 8 d . . .
+ H1 H 0.2985 0.8421 0.7532 0.0560 Uiso 1.0 8 calc R . .
+ H2 H 0.2572 0.7317 0.8964 0.0509 Uiso 1.0 8 calc R . .
+ H8 H 0.5438 0.1104 0.8615 0.0404 Uiso 1.0 8 calc R . .
+
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+ S1 0.0437(4) 0.0534(4) 0.0309(3) 0.0031(3) 0.0039(2) 0.0076(2)
+ S2 0.0329(3) 0.0519(4) 0.0334(3) 0.0044(2) 0.01165(19) 0.0001(2)
+ C1 0.0425(12) 0.0492(13) 0.0463(13) 0.0038(10) -0.0055(10) 0.0060(10)
+ C2 0.0325(10) 0.0460(12) 0.0478(12) 0.0037(9) -0.0008(9) -0.0023(10)
+ C3 0.0300(9) 0.0391(10) 0.0331(9) -0.0001(8) 0.0034(7) -0.0039(8)
+ C4 0.0328(9) 0.0373(10) 0.0278(9) -0.0014(8) 0.0036(7) -0.0002(8)
+ C5 0.0301(9) 0.0363(10) 0.0259(8) -0.0010(7) 0.0053(7) -0.0002(7)
+ C6 0.0294(8) 0.0389(9) 0.0284(9) -0.0019(8) 0.0082(7) -0.0014(7)
+ C8 0.0332(9) 0.0432(11) 0.0259(9) -0.0018(8) 0.0092(7) 0.0005(8)
+
+#==============================================================================
+_computing_data_collection              WinAFC
+_computing_cell_refinement              WinAFC
+_computing_data_reduction               WinAFC
+_computing_structure_solution          'Il Milione (Burla, et al., 2007)'
+_computing_structure_refinement        'SHELXL97 (Sheldrick, 2008)'
+_computing_publication_material        'CrystalStructure 4.0 (Rigaku, 2010)'
+_computing_molecular_graphics          'CrystalStructure 4.0'
+
+#==============================================================================
+# MOLECULAR GEOMETRY
+
+_geom_special_details
+;
+    ENTER SPECIAL DETAILS OF THE MOLECULAR GEOMETRY
+;
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1.723(3) yes . .
+S1 C4 1.719(2) yes . .
+S2 C3 1.740(3) yes . .
+S2 C6 1.758(2) yes . .
+C1 C2 1.361(4) yes . .
+C2 C3 1.417(3) yes . .
+C3 C4 1.378(3) yes . .
+C4 C5 1.435(3) yes . .
+C5 C6 1.423(3) yes . .
+C5 C8 1.392(3) yes . .
+C6 C8 1.379(3) yes . 3_657
+C1 H1 0.930 no . .
+C2 H2 0.930 no . .
+C8 H8 0.930 no . .
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+C1 S1 C4 91.26(12) yes . . .
+C3 S2 C6 91.21(10) yes . . .
+S1 C1 C2 113.16(19) yes . . .
+C1 C2 C3 110.9(2) yes . . .
+S2 C3 C2 134.27(18) yes . . .
+S2 C3 C4 111.80(16) yes . . .
+C2 C3 C4 113.9(2) yes . . .
+S1 C4 C3 110.79(15) yes . . .
+S1 C4 C5 134.26(17) yes . . .
+C3 C4 C5 114.93(18) yes . . .
+C4 C5 C6 109.82(17) yes . . .
+C4 C5 C8 130.23(18) yes . . .
+C6 C5 C8 119.95(17) yes . . .
+S2 C6 C5 112.25(14) yes . . .
+S2 C6 C8 125.66(15) yes . . 3_657
+C5 C6 C8 122.09(18) yes . . 3_657
+C5 C8 C6 117.96(18) yes . . 3_657
+S1 C1 H1 123.425 no . . .
+C2 C1 H1 123.413 no . . .
+C1 C2 H2 124.579 no . . .
+C3 C2 H2 124.570 no . . .
+C5 C8 H8 121.030 no . . .
+C6 C8 H8 121.014 no 3_657 . .
+
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_publ_flag
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_2
+_geom_torsion_site_symmetry_3
+_geom_torsion_site_symmetry_4
+C1 S1 C4 C3 0.73(15) no . . . .
+C1 S1 C4 C5 178.9(2) no . . . .
+C4 S1 C1 C2 -0.23(17) no . . . .
+C3 S2 C6 C5 -0.75(14) no . . . .
+C3 S2 C6 C8 -179.97(16) no . . . 3_657
+C6 S2 C3 C2 179.8(2) no . . . .
+C6 S2 C3 C4 0.53(14) no . . . .
+S1 C1 C2 C3 -0.3(3) no . . . .
+C1 C2 C3 S2 -178.36(19) no . . . .
+C1 C2 C3 C4 0.9(3) no . . . .
+S2 C3 C4 S1 178.36(11) no . . . .
+S2 C3 C4 C5 -0.2(3) no . . . .
+C2 C3 C4 S1 -1.1(3) no . . . .
+C2 C3 C4 C5 -179.61(17) no . . . .
+S1 C4 C5 C6 -178.48(15) no . . . .
+S1 C4 C5 C8 2.0(4) no . . . .
+C3 C4 C5 C6 -0.4(3) no . . . .
+C3 C4 C5 C8 -179.89(17) no . . . .
+C4 C5 C6 S2 0.8(2) no . . . .
+C4 C5 C6 C8 -179.99(16) no . . . 3_657
+C4 C5 C8 C6 179.87(18) no . . . 3_657
+C6 C5 C8 C6 0.4(3) no . . . 3_657
+C8 C5 C6 S2 -179.66(15) no . . . .
+C8 C5 C6 C8 -0.4(3) no . . . 3_657
+S2 C6 C8 C5 179.55(13) no . . 3_657 3_657
+C5 C6 C8 C5 0.4(3) no . . 3_657 3_657
+
+loop_
+_geom_contact_atom_site_label_1
+_geom_contact_atom_site_label_2
+_geom_contact_distance
+_geom_contact_publ_flag
+_geom_contact_site_symmetry_1
+_geom_contact_site_symmetry_2
+S1 C8 3.538(3) no . .
+C5 C5 2.788(3) no . 3_657
+C6 C6 2.749(3) no . 3_657
+C8 C8 2.851(3) no . 3_657
+C1 C4 3.533(4) no . 1_565
+C3 C6 3.504(4) no . 1_565
+C4 C1 3.533(4) no . 1_545
+C5 C5 3.544(3) no . 3_667
+C6 C3 3.504(4) no . 1_545
+S1 H2 3.4795 no . .
+S1 H8 3.3126 no . .
+S2 H2 3.1960 no . .
+S2 H8 2.9509 no . 3_657
+C3 H1 3.1723 no . .
+C4 H1 3.3747 no . .
+C4 H2 3.2199 no . .
+C4 H8 2.8140 no . .
+C5 H8 3.2931 no . 3_657
+C6 H8 3.2846 no . .
+H1 H2 2.4008 no . .
+S1 H8 3.0957 no . 2_656
+S1 H8 3.4661 no . 2_666
+S2 H1 3.5707 no . 4_565
+S2 H2 3.5520 no . 1_545
+S2 H2 3.2959 no . 7_557
+S2 H2 3.1419 no . 7_567
+S2 H8 3.5201 no . 3_667
+C1 H1 2.8364 no . 6_546
+C1 H1 3.5751 no . 6_556
+C2 H1 2.8821 no . 6_546
+H1 S2 3.5707 no . 4_564
+H1 C1 3.5751 no . 6_546
+H1 C1 2.8364 no . 6_556
+H1 C2 2.8821 no . 6_556
+H1 H1 2.8282 no . 6_546
+H1 H1 2.8282 no . 6_556
+H1 H2 3.5749 no . 6_546
+H1 H2 2.9195 no . 6_556
+H2 S2 3.5520 no . 1_565
+H2 S2 3.2959 no . 7_557
+H2 S2 3.1419 no . 7_567
+H2 H1 2.9195 no . 6_546
+H2 H1 3.5749 no . 6_556
+H2 H2 3.1460 no . 7_567
+H8 S1 3.4661 no . 2_646
+H8 S1 3.0957 no . 2_656
+H8 S2 3.5201 no . 3_667
+H8 H8 3.5558 no . 2_656
+
+#==============================================================================
+
+#==============================================================================
+# Additional structures and associated data_? identifiers
+# should be added at this point if there is more than one 
+# structure analysis in the CIF.
+
+#==============================================================================
+#     End of CIF
+#==============================================================================

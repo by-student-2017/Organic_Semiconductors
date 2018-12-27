@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated directly or indirectly from an entry in the 
+# Cambridge Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting from 
+# the CCDC's data processing and validation procedures. Files generated from 
+# CSD entries are Copyright 2013 Cambridge Crystallographic Data Centre. They 
+# may be used in bona fide research applications only, and may not be copied or 
+# further disseminated in any form, whether machine-readable or not, except for 
+# the purposes of generating routine backup copies on your local computer 
+# system.
+# 
+# Files arising from any other source may also contain material that is the 
+# copyright of third parties, including the originator, and you should check 
+# with the originator concerning the permitted uses of the information 
+# contained in this CIF.
+#
+# For further information on the CCDC and the free tools enCIFer and Mercury
+# for validating and visualising CIF files, please visit www.ccdc.cam.ac.uk
+#
+#######################################################################
+
+data_BEBVOT
+_audit_creation_date             1982-09-17
+_database_code_NBS               532603
+_chemical_formula_moiety         'C10 H12 Se4 1+,C10 H12 Se4,As1 F6 1-'
+_chemical_name_systematic        
+'bis(Tetramethyltetraselenafulvalene) hexafluoro-arsenic'
+_journal_coden_Cambridge         4
+_journal_volume                  103
+_journal_year                    1981
+_journal_page_first              7064
+_journal_name_full               J.Am.Chem.Soc.
+loop_
+_publ_author_name
+F.Wudl
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    2.503
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.031
+_refine_ls_wR_factor_gt          0.031
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.277(2)
+_cell_length_b                   7.711(1)
+_cell_length_c                   13.651(2)
+_cell_angle_alpha                83.16(1)
+_cell_angle_beta                 86.0(2)
+_cell_angle_gamma                71.27(2)
+_cell_volume                     719.865
+_exptl_crystal_colour            black
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1 As 0.00000 0.00000 0.00000
+F1 F 0.03260 -0.11320 0.11360
+F2 F -0.04680 -0.17550 -0.04130
+F3 F 0.22970 -0.10790 -0.02680
+F1A F -0.0326 0.1132 -0.1136
+F2A F 0.0468 0.1755 0.0413
+F3A F -0.2297 0.1079 0.0268
+Se1 Se 0.70867 0.66205 0.38628
+Se2 Se 0.83015 0.25506 0.48842
+Se3 Se 0.76238 0.41791 0.71384
+Se4 Se 0.63359 0.82472 0.61059
+C1 C 0.74780 0.50790 0.50580
+C2 C 0.77910 0.46570 0.30440
+C3 C 0.83320 0.29360 0.34880
+C4 C 0.77220 0.52550 0.19650
+C5 C 0.89430 0.12020 0.29820
+C6 C 0.71880 0.57140 0.59500
+C7 C 0.68500 0.61400 0.79510
+C8 C 0.63000 0.78860 0.75030
+C9 C 0.68780 0.56200 0.90370
+C10 C 0.56310 0.96050 0.80270
+
+#END
+
