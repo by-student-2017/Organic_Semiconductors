@@ -47,25 +47,11 @@ Organic semiconductors (cif file)
 
 ## Mobility [M1,M2]
 	a-Si:H: ca.10^0 cm^2/Vs
-	
-	
-	
-	
 	Rubrene crystal: 40 cm^2/Vs
-	
-	
 	Pentacene film: 5 cm^2/Vs
-	
-	
 	TIPS-Pentacene (solution): 1.5 cm^2/Vs
-	
-	
 	Polythiophene (solution): 0.6 cm^2/Vs
-	
-	
 	P3HT: 0.1 cm^2/Vs
-	
-	
 [M1] T. Mori, J. Phys. Cond. Matter. 20 (2008) 184010.
 
 
@@ -73,17 +59,8 @@ Organic semiconductors (cif file)
 
 
 ## Field-Effect Mobility
-
-
 	DNTT: 8.3 cm^2/Vs, APL95(2009)022111.
-
-
 	C8-BTBT (solution): 5 cm^2/Vs, APE2(2009)111501.
-
-
 	CDT-BTZ (solution): 1.4 cm^2/Vs, AM21(2009)209.
-
-
 	PB16TTT (solution): 1 cm^2/Vs, JAP105(2009)024516.
-	
 	
